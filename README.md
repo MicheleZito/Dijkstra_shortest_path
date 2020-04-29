@@ -12,12 +12,3 @@ The name of the adjacent node and the weight of the edge that bonds them separat
 The name of the chosen node must be written as it was in the first line.
 
 Obviously edges that connect two nodes, must have the same weight value in the adjacencies of the two nodes.
-
-Example of file:
-
-2
-#One#Two#
-1
-Two;5
-1
-One;5
