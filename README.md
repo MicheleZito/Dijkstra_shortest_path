@@ -1,5 +1,5 @@
 # Dijkstra_shortest_path
-Implementation of the Dijkstra algorithm for shortest path problem
+C++ Implementation of the Dijkstra algorithm for shortest path problem
 
 The code was firstly developed for Windows systems. This version is reviewed for Ubuntu 16.04 LTS, 'cause some functions or instructions weren't working.
 
